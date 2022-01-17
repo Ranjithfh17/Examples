@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examples</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner">Banner</string>
+    <string name="banner_desc">Jetpack encompasses a collection of Android libraries that incorporate best practices and provide backwards compatibility in your Android apps.</string>
+    <string name="okay">okay</string>
+    <string name="show">show</string>
+</resources>
